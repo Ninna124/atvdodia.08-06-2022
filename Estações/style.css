@@ -1,0 +1,84 @@
+table{
+text-align: center;
+
+}
+
+.img{
+width: 200px;
+height: 150px;
+border: 3pt solid;
+border-collapse: collapse;
+border-color: red;
+border-radius: 10px;
+padding-left: 25px ;
+padding-right: 25px ;
+
+}
+.vermelho{
+border: 3pt solid;
+border-collapse: collapse;
+border-color: red;
+border-radius: 10px;
+font-family: Verdana, Tahoma, sans-serif;
+font-size: 20px;
+height: 50px;
+width: 150px;
+}
+.verde{
+
+    border: 3pt solid;
+    border-collapse: collapse;
+    border-color: forestgreen;
+    border-radius: 10px;
+    font-family: Verdana, Tahoma, sans-serif; 
+    font-size: 20px;
+    height: 50px; 
+    width: 150px;
+}
+.amarelo{
+    border: 3pt solid;
+    border-collapse: collapse;
+    border-color: orange;
+    border-radius: 10px;
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 20px;
+    height: 50px;
+    width: 150px;
+}
+.marrom{
+    border: 3pt solid;
+    border-collapse: collapse;
+    border-color: brown;
+    border-radius: 10px;
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 20px;
+    height: 50px;
+    width: 150px;
+}
+.azul{
+    border: 3pt solid;
+    border-collapse: collapse;
+    border-color: rgb(4, 0, 255);
+    border-radius: 10px;
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 20px;
+    height: 50px;
+    width: 150px;
+}
+#estacao{
+transform: rotate(-90deg);
+font-family: Verdana, Tahoma, sans-serif;
+text-align: center;
+
+}
+.esta{
+    border: 3pt solid;
+    border-collapse: collapse;
+    border-color: red;
+    border-radius: 10px;
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 20px;
+    height: 50px;
+    width: 25px;
+
+}
